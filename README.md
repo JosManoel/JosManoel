@@ -4,7 +4,7 @@
   Heaven's Door: Book Transmutation
   
 ***
-<img align="right" src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo" />
+<img align="right" src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo" width = "480" />
 
 <img src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.metadata=0&config.timezone=America%2FSao_Paulo" />
 
