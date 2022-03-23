@@ -34,9 +34,14 @@
 <img src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/37b8505ad58a360d01662897d55b64cec9470cf7/Software_and_tools.svg" alt="Software and tools" height="16" />
 
 <p>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Figma" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/a2f386eb4d17d0701f4c46ad8c5654eb2f772e9d/figma.svg">
+    <img alt="EasyEDA" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/a2f386eb4d17d0701f4c46ad8c5654eb2f772e9d/easyeda.svg">
+    <img alt="AutoCAD" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/a2f386eb4d17d0701f4c46ad8c5654eb2f772e9d/autocad.svg">
+    <img alt="Photoshop" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/a2f386eb4d17d0701f4c46ad8c5654eb2f772e9d/photoshop.svg">
+
 </p>
 
 
@@ -46,6 +51,9 @@
 <p>
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+    <img alt="jQuery" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/a2f386eb4d17d0701f4c46ad8c5654eb2f772e9d/jquery.svg">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 </p>
 
 
