@@ -1,6 +1,7 @@
 <h1>
+  
   Hey 
-  <img src="https://i.imgur.com/DwsoBvD.gif" width = "82"> 
+  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width = "48" /> 
   , I'm Manoel Freitas
 </h1>
   Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órfão, entusiasta da automação residencial, amante da emulação de consoles e desenvolvedor autodidata. Atualmente cursando Bacharelado em TI na Universidade Federal do Rio Grande do Norte.
@@ -9,11 +10,15 @@
 
 <div> 
   <a href="www.linkedin.com/in/josmanoel" border="8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24"/>
   </a>
   
   <a href="https://medium.com/@ManoelFreitas">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24"/>
+  </a>
+  
+  <a href="mailto:josmanoel.freitas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24"/>
   </a>
 </div>
 
@@ -21,14 +26,16 @@
 ***
 
 <h2>
-  <img src="https://imgur.com/PbR9UFh.png" width = "26"> 
+  <img src="https://imgur.com/PbR9UFh.png" width = "26"/> 
   Heaven's Door: Book Transmutation
 </h2>
 
 
 <img align="right" src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo" width="420"/>
 
-<div width="10">
+<!-- --------------------------------------------------------------------- -->
+
+<img src="https://i.imgur.com/DwsoBvD.gif" width = "82"> 
 
 <!-- Software and tools -->
 <img src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/37b8505ad58a360d01662897d55b64cec9470cf7/Software_and_tools.svg" alt="Software and tools" height="16" />
@@ -83,7 +90,6 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
-</div>
 
 ***
 
