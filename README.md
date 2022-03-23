@@ -30,9 +30,11 @@
   Heaven's Door: Book Transmutation
 </h2>
 
-
-<img align="right" src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo" width="420"/>
-
+<a href="https://metrics.lecoq.io/about/JosManoel">
+    <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/JosManoel?template=classic&base.header=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo" width="420"/>
+  
+</a>
+  
 <!-- --------------------------------------------------------------------- -->
 
 <img align="right" src="https://gist.githubusercontent.com/JosManoel/a715083f9ba6dd1f5e5cce089671194e/raw/357da7fc0602df3dd9f76f6107a21abbcac8cd3c/coffee.svg"/> 
