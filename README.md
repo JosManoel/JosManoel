@@ -30,7 +30,7 @@
   Heaven's Door: Book Transmutation
 </h2>
 
-<img align="right" alt="GitHub Metrics" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1e0c2de7563534abe630a2d6be6eb54376e143e6/metrics.svg" width="420"/>
+<img align="right" alt="GitHub Metrics" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/b1301c88e6fa3b3978f9007014f536f45d7703b6/metrics.svg" width="420"/>
   
   
 <!-- --------------------------------------------------------------------- -->
