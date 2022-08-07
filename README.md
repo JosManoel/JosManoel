@@ -30,7 +30,7 @@
   Heaven's Door: Book Transmutation
 </h2>
 
-<img align="right" alt="GitHub Metrics" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/b1301c88e6fa3b3978f9007014f536f45d7703b6/metrics.svg" width="420"/>
+<img align="right" alt="GitHub Metrics" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1d83b126c183387bdecc27090b53d882f0af2849/metrics.svg" width="420"/>
   
   
 <!-- --------------------------------------------------------------------- -->
@@ -88,7 +88,7 @@
 </h1>
 
 <a href="https://metrics.lecoq.io/about/JosManoel">
-      <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1d83b126c183387bdecc27090b53d882f0af2849/metrics.svg"/>
+      <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1d83b126c183387bdecc27090b53d882f0af2849/badge_requiem.svg"/>
 </a>
 
 ***
