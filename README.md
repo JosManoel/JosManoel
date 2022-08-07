@@ -88,7 +88,7 @@
 </h1>
 
 <a href="https://metrics.lecoq.io/about/JosManoel">
-      <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/8a70b695a06da247b3e4a8a175ded8ad4d845690/badge_requiem.svg"/>
+      <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1d83b126c183387bdecc27090b53d882f0af2849/metrics.svg"/>
 </a>
 
 ***
