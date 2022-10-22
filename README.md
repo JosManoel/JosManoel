@@ -65,7 +65,6 @@
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"/>
     <img alt="jQuery" src="https://gist.githubusercontent.com/JosManoel/277fce64135765cd65dd083c0be9de16/raw/1c529767e3bfc8e934d8295f0c4c637b5f8cf301/badge_jquery.svg"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/>
 </p>
 
 
