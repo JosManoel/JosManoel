@@ -31,52 +31,47 @@
 </h2>
 
 <img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics.svg" width="420"/>
-  
-  
-<!-- --------------------------------------------------------------------- -->
 
-<img  align="left" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="480"/> 
+<div> 
+  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="420"/> 
 
+  <h1> </h1>
 
-<h1> 
-  
-</h1>
+  <!-- Software and tools -->
+  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_software_and_tools.svg" alt="Software and tools" height="18" />
 
-<!-- Software and tools -->
-<img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_software_and_tools.svg" alt="Software and tools" height="18" />
+  <p>
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
+      <img alt="Figma" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_figma.svg"/>
+      <img alt="EasyEDA" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_easyeda.svg"/>
+      <img alt="AutoCAD" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_autocad.svg"/>
 
-<p>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
-    <img alt="Figma" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_figma.svg"/>
-    <img alt="EasyEDA" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_easyeda.svg"/>
-    <img alt="AutoCAD" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_autocad.svg"/>
+  </p>
 
-</p>
+  <!-- Frameworks and libraries -->
+  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_frameworks_and_libraries.svg" alt="Frameworks and libraries" height="18" />
 
-
-<!-- Frameworks and libraries -->
-<img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_frameworks_and_libraries.svg" alt="Frameworks and libraries" height="18" />
-
-<p>
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"/>
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"/>
-    <img alt="jQuery" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_jquery.svg"/>
-</p>
+  <p>
+      <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"/>
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"/>
+      <img alt="jQuery" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_jquery.svg"/>
+  </p>
 
 
-<!-- Programming languages -->
-<img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_programming_languages.svg" alt="Programming languages" height="18" />
+  <!-- Programming languages -->
+  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/title_programming_languages.svg" alt="Programming languages" height="18" />
 
-<p>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
-  <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
-  <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"/> 
-</p>
+  <p>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"/> 
+  </p>
+</div>
 
 <h1> </h1>
 
