@@ -35,7 +35,7 @@
   
 <!-- --------------------------------------------------------------------- -->
 
-<img  src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg"/> 
+<img  align="left" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="480"/> 
 
 
 <h1> 
