@@ -30,7 +30,7 @@ jobs:
           base: activity, community, metadata
           config_timezone: America/Sao_Paulo
           output_action: gist
-          commiter_gist: b05b0851de3370d216c296d0abc233f5
+          committer_gist: b05b0851de3370d216c296d0abc233f5
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
