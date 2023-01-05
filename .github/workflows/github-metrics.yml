@@ -27,7 +27,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: activity, community, metadata
+          base: activity, community
           user: JosManoel
           template: classic
           config_timezone: America/Sao_Paulo
@@ -71,3 +71,17 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
+          
+      - name: Metadata
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metadata.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: JosManoel
+          template: classic
+          base: metadata
+          config_timezone: America/Sao_Paulo
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_GIST }}
+
