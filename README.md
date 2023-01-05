@@ -30,7 +30,7 @@
   Heaven's Door: Book Transmutation
 </h2>
 
-<img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics.svg" width="410"/>
+<img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics.svg" width="400"/>
 
 <div> 
   <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="410"/> 
@@ -75,7 +75,6 @@
 
 <h1> </h1>
 
-<img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metadata.svg" style = "width: 50%;"/>
 
 
 <a href="https://metrics.lecoq.io/about/JosManoel">
@@ -83,6 +82,7 @@
 </a>
 
 ***
+<img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metadata.svg" style = "width: 50%;"/>
 
 [_O que você fez pela comunidade hoje?_](https://docs.github.com/pt/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 
