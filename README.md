@@ -33,7 +33,7 @@
 <img  align="right" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics.svg" width="420"/>
 
 <div> 
-  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="420"/> 
+  <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/achievements.svg" width="390"/> 
 
   <h1> </h1>
 
