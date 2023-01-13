@@ -4,7 +4,7 @@
   , I'm Manoel Freitas!
 </h1>
 
-  Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órfão, entusiasta da automação residencial e produção de energia limpa, amante da emulação de consoles e desenvolvedor autodidata. Atualmente cursando Bacharelado em TI na Universidade Federal do Rio Grande do Norte.
+  Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órfão, entusiasta da automação residencial e produção de energia limpa, amante da emulação de consoles e desenvolvedor autodidata. Atualmente cursando Bacharelado em TI na Universidade Federal do Rio Grande do Norte e membro voluntário do [Ramo Estudantil IEEE UFRN](https://www.instagram.com/ieeeufrn/).
 
 <h3> </h3>
 
