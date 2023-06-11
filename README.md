@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24"/>
   </a>
   
-  <a href="mailto:josmanoel.freitas@gmail.com">
+  <a href="mailto:manoel.freitas@ieee.org">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24"/>
   </a>
 </div>
