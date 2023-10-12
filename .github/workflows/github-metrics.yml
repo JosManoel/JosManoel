@@ -43,8 +43,8 @@ jobs:
           plugin_notable_types: commit
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred   
+          plugin_topics_mode: labels
+          plugin_topics_sort: random   
 
 
       - name: Metrics and lines
