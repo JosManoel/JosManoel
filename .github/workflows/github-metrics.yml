@@ -30,7 +30,9 @@ jobs:
           user: JosManoel
           template: classic
           base: activity, community, repositories
-          config_timezone: America/Fortaleza
+          config_timezone: America/Sao_Paulo
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 16
