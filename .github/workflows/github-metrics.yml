@@ -58,7 +58,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JosManoel
           template: classic
-          base: metadata
+          base: "" 
           config_timezone: America/Sao_Paulo
           output_action: gist
           committer_gist: ${{ secrets.METRICS_GIST }}
