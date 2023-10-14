@@ -11,16 +11,16 @@
 
 <div> 
   <a href="https://br.linkedin.com/in/josmanoel">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/0b0741c54d2f108605a56b9ff13ab2c7b9344ffb/Linkedin.svg" height="24px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/Linkedin.svg" height="24px"/>
   </a> 
   <a href="https://medium.com/@ManoelFreitas">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/0b0741c54d2f108605a56b9ff13ab2c7b9344ffb/Medium.svg" height="24px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/Medium.svg" height="24px"/>
   </a>
   <a href="mailto:josmanoel.freitas@gmail.com">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/078ec28770bcdd21b79b78fed5158b2a0b298802/email.svg" height="24px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/email.svg" height="24px"/>
   </a>
   <a href="https://raw.githubusercontent.com/JosManoel/JosManoel/main/assets/CV.pdf">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/0b0741c54d2f108605a56b9ff13ab2c7b9344ffb/curriculo.svg" height="24px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/curriculo.svg" height="24px"/>
   </a>
 </div>
 
@@ -33,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/JosManoel">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/4a3c869a806ef247449ab37de986f711153591ef/metrics_full.svg" width="412px"/> 
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics_full.svg" width="412px"/> 
   </a>
   <a href="https://github.com/JosManoel">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/4a3c869a806ef247449ab37de986f711153591ef/activity.svg" width="412px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/activity.svg" width="412px"/>
   </a>
 </div>
 
@@ -45,7 +45,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJosManoel%2Fhit-counter&count_bg=%232F7082&title_bg=%23CE2929&icon=libuv.svg&icon_color=%23E7E7E7&title=Espiadas&edge_flat=false"/>
   </a>
   <a href="https://metrics.lecoq.io/about/JosManoel">
-    <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/0b0741c54d2f108605a56b9ff13ab2c7b9344ffb/badge_requiem.svg"/>
+    <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_requiem.svg"/>
   </a>
 </div>
 
