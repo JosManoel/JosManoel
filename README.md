@@ -3,7 +3,11 @@
   Hey, I'm Manoel Freitas!
 </h1>
 
-Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órfão, entusiasta do desenvolvimento mobile, curioso da produção de energia limpa, amante da emulação de consoles e programador autodidata. Atualmente cursando Bacharelado em TI na Universidade Federal do Rio Grande do Norte.
+<div align="justify">
+  Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órfão, entusiasta do desenvolvimento mobile, curioso da produção de energia limpa, amante da emulação de consoles e programador autodidata. Atualmente cursando Bacharelado em TI na Universidade Federal do Rio Grande do Norte.
+</div>
+
+<br>
 
 <div> 
   <a href="https://br.linkedin.com/in/josmanoel">
@@ -50,5 +54,5 @@ Téc. em Eletrônica (IMD/UFRN), Téc. em Edificações (IFRN-SPP), músico órf
 <a href="https://docs.github.com/pt/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github"><em>What have you done for your community lately?</em></a>
 
 <a  href="https://github.com/Arco-de-Treinamento">
-    <img align="right" src="assets/training_content.gif"  width="198px"/>
+    <img align="right" src="assets/training_content.gif"  width="174px"/>
 </a> 
