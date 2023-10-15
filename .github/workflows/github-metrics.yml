@@ -65,7 +65,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
-          plugin_lines_delay: 2
+          plugin_lines_delay: 4
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: history
