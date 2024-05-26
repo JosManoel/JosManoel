@@ -56,5 +56,3 @@
 <a  href="https://github.com/Arco-de-Treinamento">
     <img align="right" src="assets/training_content.gif"  width="174px"/>
 </a> 
-
-_Recentemente perdi os meus computadores e agora estou sem local para trabalho. Esse perfil ficará inativo até que tenha acesso a outras máquinas._
