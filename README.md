@@ -19,9 +19,6 @@
   <a href="mailto:josmanoel.freitas@gmail.com">
     <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/email.svg" height="24px"/>
   </a>
-  <a href="https://raw.githubusercontent.com/JosManoel/JosManoel/main/assets/CV.pdf">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/curriculo.svg" height="24px"/>
-  </a>
 </div>
 
 <hr>
