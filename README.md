@@ -38,8 +38,9 @@
 </div>
 
 <div>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJosManoel%2Fhit-counter&count_bg=%232F7082&title_bg=%23CE2929&icon=libuv.svg&icon_color=%23E7E7E7&title=Espiadas&edge_flat=false"/>
+  <a href="https://hitscounter.dev">
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FJosManoel&label=Bizoiado+por&icon=android&color=%23198754&message=&style=flat&tz=UTC">
+
   </a>
   <a href="https://metrics.lecoq.io/about/JosManoel">
     <img alt="Stand Réquiem" src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/badge_requiem.svg"/>
