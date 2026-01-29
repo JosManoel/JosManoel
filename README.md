@@ -54,3 +54,7 @@
 <a  href="https://github.com/Arco-de-Treinamento">
     <img align="right" src="assets/training_content.gif"  width="174px"/>
 </a> 
+
+
+
+_Nota: Kung Fu Futebol Clube e Kung Fusão são os melhores filmes já feitos pela humanidade_
